@@ -1,0 +1,11 @@
+canvas{
+	width: 	100%;
+	height: 100%;
+	background-color: black;
+}
+
+/*this make sure that our canvas (or body to be exact, 'cause our canvas is our body) would take 100% of the screen */
+body, html{
+	height: 100%;
+	margin: 0;
+}
