@@ -1,2 +1,2 @@
 # PatatapClone
-This web program is a clone of Patatap.com
+This web application is a simple clone of Patatap.com
