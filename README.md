@@ -25,7 +25,7 @@ Some comments in the source code are self notes and therefore might not seem nec
 
 * [Paper.js](http://paperjs.org/)
 
-### Platforms
+### Reference
 
 * [Patatap®](https://patatap.com)
 
